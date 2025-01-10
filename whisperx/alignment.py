@@ -22,7 +22,7 @@ PUNKT_ABBREVIATIONS = ['dr', 'vs', 'mr', 'mrs', 'prof']
 LANGUAGES_WITHOUT_SPACES = ["ja", "zh"]
 
 DEFAULT_ALIGN_MODELS_TORCH = {
-    "en": "WAV2VEC2_ASR_LARGE_LV60K_960H",
+    "en": "WAV2VEC2_ASR_BASE_960H",
     "fr": "VOXPOPULI_ASR_BASE_10K_FR",
     "de": "VOXPOPULI_ASR_BASE_10K_DE",
     "es": "VOXPOPULI_ASR_BASE_10K_ES",
@@ -62,6 +62,7 @@ DEFAULT_ALIGN_MODELS_HF = {
     "eu": "stefan-it/wav2vec2-large-xlsr-53-basque",
     "gl": "ifrz/wav2vec2-large-xlsr-galician",
     "ka": "xsway/wav2vec2-large-xlsr-georgian",
+    “sv”:“KBLab/wav2vec2-large-voxpopuli-sv-swedish”,
 }
 
 
