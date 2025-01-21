@@ -64,6 +64,13 @@ DEFAULT_ALIGN_MODELS_HF = {
     "ka": "xsway/wav2vec2-large-xlsr-georgian",
     "sv":"KBLab/wav2vec2-large-voxpopuli-sv-swedish",
     "th": "airesearch/wav2vec2-large-xlsr-53-th",
+    "sw": "eddiegulay/wav2vec2-large-xlsr-mvc-swahili" ,
+    "bn": "tanmoyio/wav2vec2-large-xlsr-bengali" , 
+    "ta": "Amrrs/wav2vec2-large-xlsr-53-tamil" , 
+    "pa": "manandey/wav2vec2-large-xlsr-punjabi" ,
+    "jv": "cahya/wav2vec2-large-xlsr-javanese" ,
+    "tl": "Khalsuu/filipino-wav2vec2-l-xls-r-300m-official", 
+    
 }
 
 
