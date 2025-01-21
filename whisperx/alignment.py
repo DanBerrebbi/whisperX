@@ -63,6 +63,7 @@ DEFAULT_ALIGN_MODELS_HF = {
     "gl": "ifrz/wav2vec2-large-xlsr-galician",
     "ka": "xsway/wav2vec2-large-xlsr-georgian",
     "sv":"KBLab/wav2vec2-large-voxpopuli-sv-swedish",
+    "th": "airesearch/wav2vec2-large-xlsr-53-th",
 }
 
 
